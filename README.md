@@ -12,6 +12,7 @@ python iden.py
 ```
 
 ## Experiment Result [VIDEO, Please Click]
+Resnet converge faster and more accurate than the plain MLP.
 
 [![Watch the video](https://github.com/MaureenZOU/ResNet-Explore/blob/master/51538360813_.pic.jpg)](https://youtu.be/WPAO8NbXbeo)
 
