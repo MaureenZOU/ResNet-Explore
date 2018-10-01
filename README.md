@@ -13,6 +13,6 @@ python iden.py
 
 ## Experiment Result
 
-[![Watch the video](https://github.com/MaureenZOU/ResNet-Explore/blob/master/41538360811_.pic.jpg)](https://youtu.be/WPAO8NbXbeo)
+[![Watch the video](https://github.com/MaureenZOU/ResNet-Explore/blob/master/51538360813_.pic.jpg)](https://youtu.be/WPAO8NbXbeo)
 
 [![Watch the video](https://github.com/MaureenZOU/ResNet-Explore/blob/master/41538360811_.pic.jpg)](https://youtu.be/ebws4T9FFgE)
