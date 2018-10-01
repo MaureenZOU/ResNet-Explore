@@ -63,7 +63,8 @@ def extract(v):
 def stats(d):
 	return [np.mean(d), np.std(d)]
 
-def Train():
+#plain MLP
+def Train(): 
 	sampler = Sampler()
 	dataset = sampler.getData()
 
@@ -126,6 +127,7 @@ def Train():
 	plt.plot(con_x, con_y, "r")
 	plt.savefig("./orinal/converge/converge.png")
 
+#identity pretrain
 def Train_pre():
 	sampler = Sampler()
 	dataset = sampler.getData()
@@ -190,6 +192,7 @@ def Train_pre():
 	plt.plot(con_x, con_y, "r")
 	plt.savefig("./pre_identity/converge/converge.png")
 
+#resnet MLP
 def Train_res():
 	sampler = Sampler()
 	dataset = sampler.getData()
@@ -294,6 +297,6 @@ def Identity():
 			torch.save(Net.state_dict(), "./identity/model/epoch" + str(epoch))
 
 
-Train_res()
+Train_res() #please edit this function
 
 
