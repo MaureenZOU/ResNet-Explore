@@ -11,7 +11,7 @@ python iden.py
 
 ```
 
-## Experiment Result
+## Experiment Result [VIDEO, Please Click]
 
 [![Watch the video](https://github.com/MaureenZOU/ResNet-Explore/blob/master/51538360813_.pic.jpg)](https://youtu.be/WPAO8NbXbeo)
 
